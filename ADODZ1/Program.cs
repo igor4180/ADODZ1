@@ -92,7 +92,7 @@ namespace ADODZ1
 				connection.Close();
 				Console.WriteLine("Подключение было закрыто.");
 			}
-			Console.ReadLine();
+			Console.ReadLine(); 
 
 			
 		}
